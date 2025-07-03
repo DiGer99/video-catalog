@@ -3,7 +3,7 @@
 ## Develop
 
 ### Setup
-Dir "src" -> Mark Directory as -> sources root 
+Right click "src" -> Mark Directory as -> sources root 
 
 ### Run 
 Go to src dir
